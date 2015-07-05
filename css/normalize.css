@@ -12,45 +12,6 @@ html {
   -webkit-text-size-adjust: 100%; /* 2 */
 }
 
-/*
-*Images & Figures ---This was added by me, b/c no default in Skeletons
-* set size
-* set alignment
-*/
-
-img.large {
-	width: 500px;
-	height: 500px; }
-img.medium {
-	width: 250px;
-	height: 250px; }
-img.small {
-	width: 100px;
-	height: 100px; }
-
-img.align-left {
-	float: left;
-	margin-right: 10px; }
-	
-img.align-right {
-	float: right;
-	margin-left: 10px; }
-
-img.align-center {
-	display: block;
-	margin: 0px auto; }
-
-figure {
-	display: block;
-	float:left;
-	width: 250px;
-	height: 250px;
-	padding: 5px:
-	margin: 20px;
-	border: 1px solid #eeeeee; }
-figcaption {
-	font-size: 90%;
-	text-align: left; }
 
 /**
  * Remove default margin.
